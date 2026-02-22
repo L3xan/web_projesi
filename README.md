@@ -1,4 +1,4 @@
-# 💰 Öğrenci Finans Yöneticisi (Projenin Adını Buraya Yaz)
+# 💰 Kişisel Bütçe Yönetimi
 
 ## 📝 Proje Açıklaması 
 Bu proje, kullanıcıların kişisel finansal durumlarını kolayca takip etmelerini ve bütçelerini yönetmelerini sağlayan web tabanlı bir uygulamadır. Özellikle kısıtlı bütçelerle yaşayan öğrencilerin gelir ve gider dengelerini kurabilmeleri amaçlanmıştır.
@@ -24,12 +24,12 @@ Bu projenin geliştirilmesinde aşağıdaki teknolojiler kullanılmıştır:
 Projeyi kendi yerel bilgisayarınızda (localhost) çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. XAMPP, WAMP veya benzeri bir yerel sunucu ortamını bilgisayarınıza kurun.
-2. Bu projeyi indirin veya klonlayın: `git clone https://github.com/kullanici-adiniz/proje-adi.git`
+2. Bu projeyi indirin veya klonlayın: `git clone https://github.com/L3xan/kisisel-bütce-yonetimi.git`
 3. Proje klasörünü yerel sunucunuzun kök dizinine (örneğin XAMPP için `htdocs` klasörü) taşıyın.
 4. MySQL veritabanını başlatın ve `phpMyAdmin` üzerinden `database_name` adında (kendi veritabanı adınızı yazın) yeni bir veritabanı oluşturun.
 5. Proje dizininde bulunan `database.sql` (eğer varsa) dosyasını içe aktararak tabloları oluşturun.
 6. Proje içerisindeki veritabanı bağlantı dosyasını (örneğin `db.php` veya `config.php`) kendi veritabanı bilgilerinize (kullanıcı adı, şifre) göre güncelleyin.
-7. Tarayıcınızda `http://localhost/proje-adi` adresine giderek uygulamayı çalıştırın.
+7. Tarayıcınızda `http://localhost/kisisel-bütce-yonetimi` adresine giderek uygulamayı çalıştırın.
 
 ## 🌐 Canlı Link
 Henüz yayınlanmadı. (Proje yayına alındığında link buraya eklenecektir.)
