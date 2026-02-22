@@ -32,7 +32,7 @@ Projeyi kendi yerel bilgisayarınızda (localhost) çalıştırmak için aşağ�
 4. XAMPP kontrol panelinden Apache ve MySQL servislerini başlatın.
 5. Tarayıcınızdan `http://localhost/phpmyadmin` adresine gidin ve `ogrenci_finans` adında yeni bir veritabanı oluşturun (Karşılaştırma dilini `utf8mb4_unicode_ci` seçin).
 6. Proje dizininde bulunan `database.sql` dosyasının içindeki SQL kodlarını kopyalayıp phpMyAdmin'deki SQL sekmesinden çalıştırarak tabloları oluşturun.
-7. Tarayıcınızda `http://localhost/kisisel-butce-yonetimi/index.php` adresine giderek uygulamayı çalıştırın ve ilk kaydınızı oluşturun!
+7. Tarayıcınızda `http://localhost/kisisel-butce-yonetimi/login.php` adresine giderek uygulamayı çalıştırın ve ilk kaydınızı oluşturun!
 
 ## 🌐 Canlı Link
 Henüz yayınlanmadı. (Proje yayına alındığında link buraya eklenecektir.)
